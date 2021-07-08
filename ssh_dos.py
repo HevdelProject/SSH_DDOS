@@ -36,7 +36,7 @@ m    m                   #         ""#
 #    #  mmm   m   m   mmm#   mmm     #
 #mmmm# #"  #  "m m"  #" "#  #"  #    #
 #    # #""""   #m#   #   #  #""""    #
-#    # "#mm"    #    "#m##  "#mm"    "mm    PROJECT
+#    # "#mm"    #    "#m##  "#mm"    "mm   PROJECT
 ''')
 if len(sys.argv) != 4:
     print('python3 ssh_dos.py host port user')
