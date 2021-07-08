@@ -1,6 +1,7 @@
 Halom im Nirix creator SSH DDOS a few words about this software
 If a person used software and made illegal actions I DO NOT TAKE RESPONSIBILITY FOR THIS PERSON 
 
+
 Let's get started, to run this utility we need to download python3 (linux version: sudo apt-get install python3 /
 Termux version pkg install python3)
 if you already have python3 then go to the directory and write the command (python3 ssh_dos.py [host] [port] [user])
